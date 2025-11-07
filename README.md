@@ -1,16 +1,42 @@
-## Hi there 👋
+### Hey, this is Sarah 👋
 
-<!--
-**kittypurrnaz/kittypurrnaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Cloud Architect Trainee** at **Google** with a passion for **Cybersecurity, DevSecOps, GenAI, and Blockchain Technology**. I also majored in **Cybersecurity & Forensics** during my undergraduate studies at **Murdoch University**. Other than that, I enjoy building and securing modern applications and infrastructure for new technological frontiers within the Web3 and AI space.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👯 I’m looking to collaborate on **open-source projects**.
+* 💬 Ask me about **Web3, DevSecOps, Python, GCP**.
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I've been working with:
+
+#### Backend
+* Python (FastAPI/Flask), JavaScript (NodeJS/Express), Java, Rust
+
+#### Frontend
+* JavaScript/TypeScript (React, Next.js), State Management (Redux), HTML, CSS
+
+#### Blockchain & Web3
+* Solidity (Smart Contracts), JavaScript (Ethers.js/web3.js), Python (web3.py), Ethereum, x402 Protocol
+
+#### Databases
+* MongoDB, MySQL
+
+#### Testing
+* Selenium, Jasmine
+
+#### Cloud & DevOps
+* GCP, AWS, Azure, Docker, Kubernetes, Terraform, CI/CD (DevOps Practices), Git (Version Control)
+
+#### Generative AI & Agent Engineering
+
+* LLMs & Frameworks (Gemini, ADK), Agent Protocols (A2A, AP2, MCP, x402)
+
+#### Cybersecurity
+* Google SecOps (SIEM/SOAR), Incident Response, Threat Detection, Offensive Security (Metasploit/BurpSuite), Vulnerability Management (Nessus), Architecture & Risk (Security Architecture, Risk Management, Defense in Depth, MITRE ATT&CK, OWASP Top 10, TTPs), Application Security (DevSecOps, SAST/DAST)
+
+#### Core Certifications
+* GCCA, GCSE, GCSOE, ISC2 CC, Security+, AZ-900, AWS CP
