@@ -13,11 +13,11 @@ I am a **Cloud Architect Trainee** at **Google** with a passion for **Cybersecur
 
 Here are some of the technologies I've been working with:
 
-#### Backend
-* Python (FastAPI/Flask), JavaScript (NodeJS/Express), Java, Rust
-
 #### Frontend
 * JavaScript/TypeScript (React, Next.js), State Management (Redux), HTML, CSS
+
+#### Backend
+* Python (FastAPI/Flask), JavaScript (NodeJS/Express), Java, Rust
 
 #### Blockchain & Web3
 * Solidity (Smart Contracts), JavaScript (Ethers.js/web3.js), Python (web3.py), Ethereum, x402 Protocol
