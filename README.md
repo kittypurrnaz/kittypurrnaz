@@ -1,4 +1,4 @@
-## Hello World! You've reached Sarah! 👋
+### Hey, this is Sarah 👋
 
 I am a **Cloud Architect Trainee** at **Google** with a passion for **Cybersecurity, DevSecOps, GenAI, and Blockchain Technology**. I also majored in **Cybersecurity & Forensics** during my undergraduate studies at **Murdoch University**. Other than that, I enjoy building and securing modern applications and infrastructure for new technological frontiers within the Web3 and AI space.
 
